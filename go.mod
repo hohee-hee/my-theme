@@ -1,4 +1,4 @@
-module my-theme
+module github.com/hohee-hee/my-theme
 
 go 1.24.1
 
